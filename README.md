@@ -1,1 +1,1 @@
-# mdn-ko-news
+# MDN ko-locale News
