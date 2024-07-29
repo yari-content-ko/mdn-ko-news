@@ -21,9 +21,9 @@ MDN ko-locale News는 MDN translated-content 저장소의 ko-locale 문서들을
 
 ## 🧑🏻‍💻 Team
 
-| [![HoChan Lee](https://avatars.githubusercontent.com/u/22424891?s=150&v=4)](https://github.com/hochan222) |   -    |   -    |
+| [![HoChan Lee](https://avatars.githubusercontent.com/u/22424891?s=150&v=4)](https://github.com/hochan222) |   [![1ilsang](https://avatars.githubusercontent.com/u/23524849?s=150&v=4)](https://github.com/1ilsang)    |   -    |
 | :-------------------------------------------------------------------------------------------------------: | :----: | :----: |
-|                                [HoChan Lee](https://github.com/hochan222)                                 | [-](#) | [-](#) |
+|                                [HoChan Lee](https://github.com/hochan222)                                 | [1ilsang](https://github.com/1ilsang) | [-](#) |
 
 ## 😎 Contributors
 
